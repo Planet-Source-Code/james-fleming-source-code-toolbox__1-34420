@@ -1,0 +1,53 @@
+You can create your own quote or tip of the day?
+I'm located in the file TIPOFDAY.TXT file in the same directory as the application.
+You can add tips by going to the Help menu and selecting the Tips option.
+Tips can be selected to be random or in order.
+Use Ctrl + Tab to move between two loaded forms without the use of the mouse.
+You can use the Shortcut keys to open forms. A shortcut is an underlined letter on a label, menu, or command button. 
+The shortcut keys for the switchboard are even easier to read. Just position your mouse over any label and you'll see the keystokes written out.
+Just because you are paranoid doesn't mean that people aren't out to get you!
+Press F10 for Goes to menu mode
+Press SHIFT+F10 for Context menu for selected item
+Press CTRL+ESC for Brings up Start menu
+Press CTRL+ESC for ESC Focus on the Start button
+Press SHIFT+F10 for Context menu
+Press ALT+TAB to Switch to the running program
+Press SHIFT while inserting CD to Bypasses auto-run
+Act boldly unseen forces will come to your aid!
+If you are setting your resolution to 1024 * 768 you will want to change your mdiMain.Picture to the AlienMoon1024 stored in the vbtips/images directory (then recompile).
+Press Alt+M when focus is on taskbar Minimizes all windows
+If you are using multiple window browse, and you want to close all open windows, hold down the Shift key, and then click the close (X) button in the upper right corner of the title bar.
+Cascading, Tiling All: Use the right mouse button to click the taskbar, and then click an option.
+If you forget where you just moved a file, or if you accidentally rename a file, click Undo from the Edit menu (or press ALT+Backspace).
+To remove the clock from the taskbar: 1. Use the right mouse button to click the taskbar, and then click Properties. 2. Click the Taskbar Options tab, and uncheck Show Clock (or press C).
+Changing the cursor when the source is dragged over the target is performed in response to the OLEGiveFeedback event.
+Menus are usually created non-programmatically. This is performed in the Visual Basic IDE with Menu Builder.
+A TreeView control is typically used to display objects that have a hierarchy.
+If a variable is definied at the module level as Public it can be referenced is globally throughout the application.
+If a procedure named Calculate requires two long parameters, and returns the results in the second parameter, a probable declaration is: Sub Calculate (Byval intX as Long, Byref intY asLong) 
+Static Data is best simulated within a class by properties
+Data-aware bound controls require a DataControl exists in order to be bound to the database.
+Data controls allow the user to navigate a set of data & bind controls to the database.
+A table recordset can be used with the Seek command.
+The function Declare Function GetPrivateProfileInt Lib ""Kernel32"" (byval strSection as String) as Integer is located in the Kernal32 Library.
+In order for an ActiveX server to display a form, unattended execution cannot occur.
+The App object may be used to control the server's behavior.
+The WebBrowser control supplies the ability to create Internet Explorer like applications.
+ActiveX Documents do not use Visual Basic for Applications.
+Using a Hyperlink control, an application can be given the ability to Navigate to a URL.
+A Hyperlink object can be used when the target application is Internet Explorer.
+In order to alert the user that an error condition has occurred, RaiseError should be used.
+When it is suspected that an error handling routine is malfunctioning, the Break on All Errors setting should be used to find it.
+The HelpFile property sets the fully qualified path to a Microsoft Help file.
+The Commondialog control uses the ShowHelp method in terms of displaying a Help File.
+An application compiled to Native Code will always be slower then P-code. 
+The Small code sacricifes efficiency to reduce code size.
+Conditional compile flags may not be set on the command line.
+Watch expressions may be set during program execution by right-clicking on a variable.
+Multiple projects may be loaded at one time into a group.
+Runtime files needed to support an ActiveX control are stored in the .Dep file.
+The list of files to be distributed is found in the LST file.
+If the setup toolkit is used, Compress.exe is how are files compressed.
+Security is the most important issue with distributing applications over the Internet.
+SaveSettings functions can be used to record values in the registry.
+Speed & Design-Time Syntax Checking are potential benefits of using Early-Binding instead of Late-Binding.
